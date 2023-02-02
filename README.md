@@ -9,7 +9,7 @@ Create a .txt file in the Mods folder named "tags"
 Seperating by comma, add in this order:
 
 - The tag name you want to apply
-- The gene index of the tag to sort by (see below)
+- The gene index of the tag to sort by (see below), or the name of the gene (exactly as it appears in the indices list)
 - Either "GREATER_THAN" or "LESS_THAN", to check if the bibite's gene is greater or less than the target value
 - The target value to sort by
 
