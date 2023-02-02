@@ -2,7 +2,9 @@ For use with version 0.5.0 only
 
 To use:
 
-Create a .txt file in Mods named "tags"
+Replace "BibitesAssembly.dll" in the TheBibites_Data/Managed folder with the file by the same name here
+
+Create a .txt file in the Mods folder named "tags"
 
 Seperating by comma, add in this order:
 
