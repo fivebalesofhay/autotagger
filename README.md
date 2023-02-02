@@ -54,7 +54,7 @@ Gene indices:
 
 13 = brainMutationChance
 
-14 = viewAngle.minValue
+14 = viewAngle
 
 15 = viewRadius
 
